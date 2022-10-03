@@ -21,3 +21,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 MIT
 
 [Görsel](https://picsum.photos/200/300)
+
+www.patika.dev
